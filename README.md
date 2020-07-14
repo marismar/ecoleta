@@ -23,13 +23,10 @@
   <img alt="Ecoleta" src=".github/ecoleta.png" width="100%">
 </p>
 
-Ecoleta is a marketplace that helps people find waste collection points efficiently.
-
-This project was developed with the technologies: [Node.js](https://nodejs.org/en/), [React](https://reactjs.org), [React Native](https://facebook.github.io/react-native/) and [Expo](https://expo.io/).
+Ecoleta is a marketplace that helps people find waste collection points efficiently. It was developed with the technologies: [Node.js](https://nodejs.org/en/), [React](https://reactjs.org), [React Native](https://facebook.github.io/react-native/) and [Expo](https://expo.io/).
 
 The layout of the ecoleta is available for viewing at [Figma](https://www.figma.com/file/9TlOcj6l7D05fZhU12xWT3/Ecoleta-Booster?node-id=0%3A1).
 
-## License 
 
-Copyright © 2020 [Marismar da Costa Silva](https://github.com/marismarcosta).<br />
+
 This project is [MIT](https://github.com/marismarcosta/wireless-network/blob/master/LICENSE) licensed.
