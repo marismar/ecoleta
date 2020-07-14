@@ -2,17 +2,15 @@
     <img alt="Ecoleta" title="Ecoleta" src=".github/ecoleta.svg" width="220px" />
 </p>
 
-<h4 align="center">
-  Projeto desenvolvido durante o Next Level Week #01.
-</h4>
+<h3 align="center">
+  Project developed at Next Level Week #01.
+</h3>
 
 <p align="center">
   <a href="https://github.com/marismarcosta/ecoleta/blob/master/LICENSE" target="_blank">
     <img alt="license: MIT" src="https://img.shields.io/badge/license-MIT-yellow.svg" />
   </a>
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/top/marismarcosta/ecoleta?color=brightgreen" />
-  <img alt="GitHub language count" src="https://img.shields.io/github/last-commit/marismarcosta/ecoleta?color=78866b" />
-  <img alt="GitHub language count" src="https://img.shields.io/github/repo-size/marismarcosta/ecoleta?color=ffa07a" />
   <a href="https://github.com/marismarcosta">
     <img src="https://img.shields.io/badge/github-marismarcosta-7159C1?logo=GitHub"/>
   </a>
@@ -22,28 +20,14 @@
 </p>
 
 <p align="center">
-  <a href="#overview">Overview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#install">Install</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#setup">Setup</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#usage">Usage</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#license">License</a>
+  <img alt="Ecoleta" src=".github/ecoleta.png" width="100%">
 </p>
 
-## Overview
+Ecoleta is a marketplace that helps people find waste collection points efficiently.
 
+This project was developed with the technologies: [Node.js](https://nodejs.org/en/), [React](https://reactjs.org), [React Native](https://facebook.github.io/react-native/) and [Expo](https://expo.io/).
 
-## Install 
-
-
-## Setup
-
-
-## Usage
-
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
+The layout of the ecoleta is available for viewing at [Figma](https://www.figma.com/file/9TlOcj6l7D05fZhU12xWT3/Ecoleta-Booster?node-id=0%3A1).
 
 ## License 
 
