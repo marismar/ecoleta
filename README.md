@@ -1,4 +1,6 @@
-<h1 align="center">Ecoleta</h1>
+<h1 align="center">
+    <img alt="Ecoleta" title="Ecoleta" src=".github/ecoleta.svg" width="220px" />
+</h1>
 
 <h4 align="center">
   Projeto desenvolvido durante o Next Level Week #01.
